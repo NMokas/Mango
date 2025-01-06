@@ -1,6 +1,0 @@
-@Mango.Services.Coupon_HostAddress = http://localhost:5216
-
-GET {{Mango.Services.Coupon_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
